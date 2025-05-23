@@ -72,5 +72,7 @@ text
   year={2024},
   howpublished={\url{https://github.com/edoppiap/bert_medical_records}}
 }
+
+
 Acknowledgments
 Project by Emanuele Pietropaolo, Yuting Wang, and Rahul Kumar Sahoo, Politecnico di Torino.
